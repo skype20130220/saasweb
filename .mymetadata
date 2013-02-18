@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="saasweb"
+  id="myeclipse.1361204321887"
+  context-root="/saasweb"
+  j2ee-spec="6.0"
+  archive="saasweb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
